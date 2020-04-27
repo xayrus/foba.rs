@@ -1,0 +1,12 @@
+[package]
+name = "foba"
+version = "0.0.1"
+authors = ["hoyeungw <hoyeungw@outlook.com>"]
+license = "MIT"
+edition = "2018"
+description = "A test crate"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+

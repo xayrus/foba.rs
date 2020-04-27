@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="12efb131-2dcf-4fdb-a833-0998bb45108c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Rust File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="o27xt0cz" />
+  </component>
+  <component name="ProjectId" id="1b72sqQPiLGy7zLbZYlW21AETld" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
+    <property name="org.rust.hideDetachedFileNotifications/home/alkashi/bodhi/foba/src/mod.rs" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Rust" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/vec_collection/number_vec_collection" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Cargo Command.Test test">
+    <configuration name="Run foba" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="channel" value="DEFAULT" />
+      <option name="command" value="run --package foba --bin foba" />
+      <option name="allFeatures" value="false" />
+      <option name="nocapture" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test test" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="channel" value="DEFAULT" />
+      <option name="command" value="test --package foba --test test test -- --exact" />
+      <option name="allFeatures" value="false" />
+      <option name="nocapture" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
+      <option name="channel" value="DEFAULT" />
+      <option name="command" value="run" />
+      <option name="allFeatures" value="false" />
+      <option name="nocapture" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <envs />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cargo Command.Test test" />
+        <item itemvalue="Cargo Command.Run foba" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="12efb131-2dcf-4fdb-a833-0998bb45108c" name="Default Changelist" comment="" />
+      <created>1587969020500</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587969020500</updated>
+      <workItem from="1587969022053" duration="7362000" />
+    </task>
+    <task id="LOCAL-00001" summary="init commit">
+      <created>1587977678009</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587977678009</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1306" y="641" width="524" height="506" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587972158915">
+      <screen x="0" y="27" width="2560" height="1413" />
+    </state>
+    <state x="1306" y="641" width="524" height="506" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.2560.1413@0.27.2560.1413" timestamp="1587972158915" />
+    <state x="1112" y="246" width="912" height="1035" key="CommitChangelistDialog2" timestamp="1587977677864">
+      <screen x="0" y="27" width="2560" height="1413" />
+    </state>
+    <state x="1112" y="246" width="912" height="1035" key="CommitChangelistDialog2/0.27.2560.1413@0.27.2560.1413" timestamp="1587977677864" />
+    <state width="1354" height="289" key="GridCell.Tab.0.bottom" timestamp="1587977554585">
+      <screen x="0" y="27" width="2560" height="1413" />
+    </state>
+    <state width="1354" height="289" key="GridCell.Tab.0.bottom/0.27.2560.1413@0.27.2560.1413" timestamp="1587977554585" />
+    <state width="1354" height="289" key="GridCell.Tab.0.center" timestamp="1587977554584">
+      <screen x="0" y="27" width="2560" height="1413" />
+    </state>
+    <state width="1354" height="289" key="GridCell.Tab.0.center/0.27.2560.1413@0.27.2560.1413" timestamp="1587977554584" />
+    <state width="1354" height="289" key="GridCell.Tab.0.left" timestamp="1587977554583">
+      <screen x="0" y="27" width="2560" height="1413" />
+    </state>
+    <state width="1354" height="289" key="GridCell.Tab.0.left/0.27.2560.1413@0.27.2560.1413" timestamp="1587977554583" />
+    <state width="1354" height="289" key="GridCell.Tab.0.right" timestamp="1587977554585">
+      <screen x="0" y="27" width="2560" height="1413" />
+    </state>
+    <state width="1354" height="289" key="GridCell.Tab.0.right/0.27.2560.1413@0.27.2560.1413" timestamp="1587977554585" />
+    <state x="553" y="527" width="1531" height="734" key="SettingsEditor" timestamp="1587976173674">
+      <screen x="0" y="27" width="2560" height="1413" />
+    </state>
+    <state x="553" y="527" width="1531" height="734" key="SettingsEditor/0.27.2560.1413@0.27.2560.1413" timestamp="1587976173674" />
+    <state x="1237" y="422" key="run.anything.popup" timestamp="1587975658743">
+      <screen x="0" y="27" width="2560" height="1413" />
+    </state>
+    <state x="1237" y="422" key="run.anything.popup/0.27.2560.1413@0.27.2560.1413" timestamp="1587975658743" />
+  </component>
+</project>
