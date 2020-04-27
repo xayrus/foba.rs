@@ -1,6 +1,8 @@
 pub mod hashmap_collection;
 pub mod vec_collection;
 
+pub use self::vec_collection::number_vec_collection;
+
 /// 将给定的数字加一
 ///
 /// # Examples
@@ -11,8 +13,6 @@ pub mod vec_collection;
 ///
 /// assert_eq!(6, answer);
 /// ```
-pub fn add_one(x: i32) -> i32 {
+fn add_one(x: i32) -> i32 {
     x + 1
 }
-
-pub use self::vec_collection::number_vec_collection::fibonacci;
