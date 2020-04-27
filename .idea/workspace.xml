@@ -13,7 +13,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="12efb131-2dcf-4fdb-a833-0998bb45108c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +112,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587969020500</updated>
-      <workItem from="1587969022053" duration="7385000" />
+      <workItem from="1587969022053" duration="7446000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1587977678009</created>
@@ -127,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587977948919</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="init commit">
+      <created>1587977968788</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1587977968788</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -139,10 +147,10 @@
       <screen x="0" y="27" width="2560" height="1413" />
     </state>
     <state x="1306" y="641" width="524" height="506" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.2560.1413@0.27.2560.1413" timestamp="1587972158915" />
-    <state x="1112" y="246" width="912" height="1035" key="CommitChangelistDialog2" timestamp="1587977948757">
+    <state x="1112" y="246" width="912" height="1035" key="CommitChangelistDialog2" timestamp="1587977968699">
       <screen x="0" y="27" width="2560" height="1413" />
     </state>
-    <state x="1112" y="246" width="912" height="1035" key="CommitChangelistDialog2/0.27.2560.1413@0.27.2560.1413" timestamp="1587977948757" />
+    <state x="1112" y="246" width="912" height="1035" key="CommitChangelistDialog2/0.27.2560.1413@0.27.2560.1413" timestamp="1587977968699" />
     <state width="1354" height="289" key="GridCell.Tab.0.bottom" timestamp="1587977554585">
       <screen x="0" y="27" width="2560" height="1413" />
     </state>
