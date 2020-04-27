@@ -13,6 +13,4 @@ pub use self::vec_collection::number_vec_collection;
 ///
 /// assert_eq!(6, answer);
 /// ```
-fn add_one(x: i32) -> i32 {
-    x + 1
-}
+pub fn add_one(x: i32) -> i32 { x + 1 }
