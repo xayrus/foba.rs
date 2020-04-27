@@ -1,6 +1,6 @@
 [package]
 name = "foba"
-version = "0.0.1"
+version = "0.0.2"
 authors = ["hoyeungw <hoyeungw@outlook.com>"]
 license = "MIT"
 edition = "2018"

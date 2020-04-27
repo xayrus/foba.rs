@@ -12,10 +12,7 @@
     <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12efb131-2dcf-4fdb-a833-0998bb45108c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib.rs" afterDir="false" />
-    </list>
+    <list default="true" id="12efb131-2dcf-4fdb-a833-0998bb45108c" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -140,7 +137,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587969020500</updated>
-      <workItem from="1587969022053" duration="10592000" />
+      <workItem from="1587969022053" duration="11846000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1587977678009</created>
@@ -184,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587982389096</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="init commit">
+      <created>1587982457878</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1587982457878</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -196,10 +200,10 @@
       <screen x="0" y="27" width="2560" height="1413" />
     </state>
     <state x="1306" y="641" width="524" height="506" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.2560.1413@0.27.2560.1413" timestamp="1587972158915" />
-    <state x="1112" y="246" width="912" height="1035" key="CommitChangelistDialog2" timestamp="1587982389013">
+    <state x="1112" y="246" width="912" height="1035" key="CommitChangelistDialog2" timestamp="1587982457776">
       <screen x="0" y="27" width="2560" height="1413" />
     </state>
-    <state x="1112" y="246" width="912" height="1035" key="CommitChangelistDialog2/0.27.2560.1413@0.27.2560.1413" timestamp="1587982389013" />
+    <state x="1112" y="246" width="912" height="1035" key="CommitChangelistDialog2/0.27.2560.1413@0.27.2560.1413" timestamp="1587982457776" />
     <state x="1391" y="897" width="281" height="200" key="Github.ShareDialog" timestamp="1587979406061">
       <screen x="0" y="27" width="2560" height="1413" />
     </state>
@@ -224,6 +228,10 @@
       <screen x="0" y="27" width="2560" height="1413" />
     </state>
     <state x="553" y="527" width="1531" height="734" key="SettingsEditor/0.27.2560.1413@0.27.2560.1413" timestamp="1587979332175" />
+    <state x="1260" y="498" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1587982489112">
+      <screen x="0" y="27" width="2560" height="1413" />
+    </state>
+    <state x="1260" y="498" width="800" height="532" key="Vcs.Push.Dialog.v2/0.27.2560.1413@0.27.2560.1413" timestamp="1587982489112" />
     <state x="1237" y="422" key="run.anything.popup" timestamp="1587975658743">
       <screen x="0" y="27" width="2560" height="1413" />
     </state>
